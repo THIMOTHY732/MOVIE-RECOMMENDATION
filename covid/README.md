@@ -1,5 +1,23 @@
-# Movie Recommendation System
+# Covid19-Analysis-and-Visualization-Project
+This project uses data analysis and visualization to analyze the effects of the ongoing COVID-19 pandemic in India, and create visualizations for important observations made during the analysis.
+![](highestcovidcases.JPG)
 
+<<<<<<< HEAD
+It consists of following Analysis and Visualizations:-
+1. Cumulative number of case grouped by date
+2. Total positive cases in each age group
+3. Total cases in India and each of its states and union territories
+4. Non-cumulative number of cases grouped by date
+5. Total cases per million people in India and each of its states and union territories
+6. Age distribution of positive cases in India and each of its states and union territories
+7. National descriptive statistics(Ages of all positive cases in India)
+8. Correlation between population (or, population density) and total positive cases
+9. Public health facilities in India and each of its states and union territories
+10. Indian Council of Medical Research (ICMR) testing details
+11. States/Union territories and districts with the highest and the lowest number of confirmed COVID-19 cases
+12. Important COVID-19 details of India and each of its states and union territories
+![](ICMRTestingdetails.JPG)
+=======
 ## 📖 Project Overview
 The **Movie Recommendation System** is designed to suggest movies based on user preferences. By leveraging the **Pandas** library, this system calculates correlations to recommend similar movies. The goal is to provide users with personalized movie suggestions.
 
@@ -97,11 +115,6 @@ Have created a text input bar to add your movie whose recommendation you want. O
 ![Screen Shot 2020-06-06 at 9 36 41 PM](https://user-images.githubusercontent.com/15246084/83949019-ffb96400-a83e-11ea-9607-3d1dbf5c3769.png)
 
 ---
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## 🙌 Acknowledgments
 - The developers of Python and Pandas for their excellent tools.
 - The creators of the MovieLens Dataset.
@@ -112,3 +125,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🧑‍💻 Author
 **K. Thimothi**  
 Connect with me on [GitHub](https://github.com/THIMOTHY732) for more projects.
+>>>>>>> 1de0420523c341738ba2e73dbb07b81f48eadda1
