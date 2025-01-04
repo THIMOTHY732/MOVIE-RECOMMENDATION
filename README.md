@@ -97,11 +97,6 @@ Have created a text input bar to add your movie whose recommendation you want. O
 ![Screen Shot 2020-06-06 at 9 36 41 PM](https://user-images.githubusercontent.com/15246084/83949019-ffb96400-a83e-11ea-9607-3d1dbf5c3769.png)
 
 ---
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## 🙌 Acknowledgments
 - The developers of Python and Pandas for their excellent tools.
 - The creators of the MovieLens Dataset.
